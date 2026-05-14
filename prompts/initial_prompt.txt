@@ -1,0 +1,34 @@
+Act as a senior website copywriter and branding strategist.
+
+Create professional homepage website copy for an AI creative agency called “VisionForge AI”.
+
+About the business:
+VisionForge AI helps startups, creators, and businesses create:
+- AI-generated videos
+- AI posters and creatives
+- social media content
+- AI advertisements
+- branding visuals
+
+Target audience:
+Startups, local businesses, creators, and modern brands looking for affordable high-quality AI-powered creative services.
+
+Tone:
+Modern, futuristic, premium, creative, and trustworthy.
+
+Create these sections:
+1. Hero Headline
+2. Hero Subheadline
+3. Primary CTA Button
+4. About Section
+5. Services Overview
+6. Why Choose Us
+7. Client Testimonial Section
+8. Final CTA Section
+
+Requirements:
+- Make content website-ready
+- Keep sentences concise and engaging
+- Use persuasive marketing language
+- Avoid generic wording
+- Make the brand feel innovative and modern
